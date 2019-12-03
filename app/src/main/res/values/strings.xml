@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherForecastApp</string>
+    <string name="title_activity_forecast">Forecast</string>
+
+    <!-- MainActivity -->
+    <string name="search_message">Bem-vindo(a) ao WeatherForecastApp!\nDigite o nome da cidade que deseja buscar abaixo.</string>
+    <string name="city_input_hint">Selecione uma Cidade</string>
+    <string name="celsius">Celsius</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="search">Pesquisar</string>
+
+    <!-- Shared Preferences -->
+    <string name="pref_key">preferences</string>
+    <string name="pref_temp_unit">temp_unit</string>
+</resources>
